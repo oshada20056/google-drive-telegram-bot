@@ -1,13 +1,15 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+      BOT_TOKEN = "6234064473:AAE8cTNtmnVuwEYZKZCmMdCn4KUW0FwBJN0"
+    APP_ID = "21204722"
+    API_HASH = "4f5b4bbc15e7f9df9961ac92e8fd219b"
+    DATABASE_URL = "postgres://koyeb-adm:zgbBy4EGDUX7@ep-dark-dream-a2zqw90y.eu-central-1.pg.koyeb.app/koyebdb"
+    SUDO_USERS = "5310455183" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "1053127391150-16oi0pb44dtj23v8vt6tmudn73q38v9j.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "t.me/filmstudildl"
+ 
+
 
 
 class BotCommands:
